@@ -1,0 +1,1 @@
+<h3>Simple view file made for testing.</h3>

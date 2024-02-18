@@ -59,3 +59,4 @@ $route['translate_uri_dashes'] = FALSE;
 
  $route['simple-message'] = 'message/Message/show_message';
  $route['show-message'] = 'message/simpleMessage';
+ $route['my-view'] = 'template/my_view';
